@@ -13,26 +13,26 @@ npm install
 This step ensures your local development environment mirrors the project's dependencies as specified in package.json.
 
 ### Web3 Core
-WAGMI CLI - Automatic React Hook Generation
-RainbowKit - Wallet connection manager
-Sign-In With Ethereum - Account authentication
+- WAGMI CLI - Automatic React Hook Generation
+- RainbowKit - Wallet connection manager
+- Sign-In With Ethereum - Account authentication
 
 ###Web2 Frameworks
-Vercel - App Infrastructure. Frontend hosting and serverless functions.
-Prisma - Database ORM
-PostgreSQL hosted on Railway: Combines database hosting with integrated cron-job support.
+- Vercel - App Infrastructure. Frontend hosting and serverless functions
+- Prisma - Database ORM
+- PostgreSQL hosted on Railway: Combines database hosting with integrated cron-job support
 
 ### Developer Experience
-TypeScript – Static type checker for end-to-end typesafety
-Prettier – Opinionated code formatter for consistent code style
-ESLint – Pluggable linter for Next.js and TypeScript
+- TypeScript – Static type checker for end-to-end typesafety
+- Prettier – Opinionated code formatter for consistent code style
+- ESLint – Pluggable linter for Next.js and TypeScript
 
 ### User Interface
-TailwindCSS – Utility-first CSS framework for rapid UI development
-Radix – Primitives like modal, popover, etc. to build a stellar user experience
-Framer Motion – Motion library for React to animate components with ease
-React Icons – Beautifully simple, pixel-perfect icons
-The ui.shadcn.com components are included in the /components/shared/ui folder.
+- TailwindCSS – Utility-first CSS framework for rapid UI development
+- Radix – Primitives like modal, popover, etc. to build a stellar user experience
+- Framer Motion – Motion library for React to animate components with ease
+- React Icons – Beautifully simple, pixel-perfect icons
+- The ui.shadcn.com components are included in the /components/shared/ui folder.
 
 
 
