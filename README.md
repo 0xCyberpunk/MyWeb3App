@@ -36,3 +36,7 @@ This step ensures your local development environment mirrors the project's depen
 
 
 
+# Acknowledgements
+Original template was forked from https://github.com/wslyvh/nexth
+
+
