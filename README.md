@@ -37,6 +37,7 @@ This step ensures your local development environment mirrors the project's depen
 
 
 # Acknowledgements
-Original template was forked from https://github.com/wslyvh/nexth
+Original template was forked from https://github.com/turbo-eth/template-web3-app
+
 
 
