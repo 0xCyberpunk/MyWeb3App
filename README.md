@@ -3,7 +3,6 @@
 Web3 App Template built using Next.js, RainbowKit, Tailwind, Sign-In With Ethereum, and more.
 
 ## Development Setup:
----
 
 After cloning the repository or pulling new changes, ensure to run the following command to install the required dependencies:
 
